@@ -3,6 +3,8 @@ Linux-IPC-Pipes
 
 
 # Ex03-Linux IPC - Pipes
+## NAME:PRIYADARSHINI K
+## REG NO: 212224100046
 
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
