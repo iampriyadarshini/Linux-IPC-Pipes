@@ -100,7 +100,7 @@ void client(int write_fd, int read_fd) {
 ```
 
 ## OUTPUT
-![catfile1](ex03/Linux-IPC-Pipes/os3.png)
+![catfile1](os3.png)
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```
@@ -208,7 +208,7 @@ void client()
 ```
 
 ## OUTPUT
-![catfile2](ex03/Linux-IPC-Pipes/os3.2.png)
+![catfile2](os3.2.png)
 
 
 # RESULT:
